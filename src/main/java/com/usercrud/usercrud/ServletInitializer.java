@@ -1,4 +1,4 @@
-package com.example.usercrud;
+package com.usercrud.usercrud;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
